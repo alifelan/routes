@@ -1,0 +1,23 @@
+{
+  "name": "blog-post",
+  "version": "1.0.0",
+  "description": "Lab 7",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alifelan/blog-post.git"
+  },
+  "author": "alifelan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alifelan/blog-post/issues"
+  },
+  "homepage": "https://github.com/alifelan/blog-post#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "uuid": "^3.3.2"
+  }
+}
